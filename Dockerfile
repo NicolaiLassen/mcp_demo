@@ -1,0 +1,1 @@
+/Users/nicolailassen/Desktop/implement/zealand-pharma/chatzpt/chatzpt/chatzpt-management-api/requirements.txt
