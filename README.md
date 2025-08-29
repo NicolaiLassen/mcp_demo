@@ -1,6 +1,9 @@
 # mcp_demo
 
+MCP Server which connects to a weather open API.
+
 # Install UV: https://github.com/astral-sh/uv
+# Run uv sync
 # Install ngrok: https://ngrok.com/
 
 # Run the main.py server
