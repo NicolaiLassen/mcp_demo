@@ -1,7 +1,7 @@
 import os
 from openai import OpenAI
 
-MCP_SERVER_URL = os.getenv("MCP_SERVER_URL", "https://692bae6485c9.ngrok-free.app")
+MCP_SERVER_URL = os.getenv("MCP_SERVER_URL", "https://c9c2e2967d13.ngrok-free.app")
 MCP_PATH = os.getenv("MCP_PATH", "/mcp")
 OPENAI_MODEL = os.getenv("OPENAI_MODEL", "gpt-5")
 

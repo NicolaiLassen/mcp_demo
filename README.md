@@ -7,7 +7,7 @@ MCP Server which connects to a weather open API.
 - Install ngrok: https://ngrok.com/
 
 - Run the main.py server
-- Run Ngrok http
+- Run ngrok http 8000
 - Add env var for OPENAI_API_KEY
 - Add env var url from ngrok MCP_SERVER_URL
 - Run the main_cli_test
